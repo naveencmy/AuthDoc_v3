@@ -1,0 +1,27 @@
+{
+  "doc_type": "marriage_record",
+
+  "fields": [
+
+    {
+      "name": "groom_name",
+      "region": "left_column",
+      "type": "person_name",
+      "keywords": ["de"]
+    },
+
+    {
+      "name": "bride_name",
+      "region": "left_column",
+      "type": "person_name",
+      "keywords": ["et"]
+    },
+
+    {
+      "name": "marriage_date",
+      "region": "right_paragraphs",
+      "type": "date"
+    }
+
+  ]
+}

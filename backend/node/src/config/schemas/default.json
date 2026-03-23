@@ -1,0 +1,17 @@
+{
+  "document_type": "generic",
+  "language": "english",
+
+  "fields": [
+    {
+      "name": "name",
+      "required": true,
+      "keywords": ["name"]
+    },
+    {
+      "name": "date",
+      "required": false,
+      "keywords": ["date"]
+    }
+  ]
+}

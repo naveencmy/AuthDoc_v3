@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+paddleocr
+paddlepaddle
+opencv-python==4.6.0.66
+numpy==1.26.4
+pillow
+scikit-learn
+rapidfuzz
